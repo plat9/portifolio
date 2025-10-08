@@ -665,7 +665,7 @@ body.light-mode #home img#notebook-2-white {
 }
 
 #projects .card {
-  padding: 4rem;
+  padding: 10rem;
   background: var(--bg-color);
 
   border-radius: 0.6rem;
@@ -801,8 +801,13 @@ body.light-mode #home img#notebook-2-white {
 }
 
 #knowledge .card img {
-  width: 10rem;
+  width: 100%;
+  max-width: 8rem;
+  height: auto;
+  display: block;
+  margin-bottom: 1rem;
 }
+
 
 /*===== CONTACT ===============================================*/
 
