@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Simple Google Drive style icon (three colored shapes) -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48">
+  <g>
+    <path fill="#0F9D58" d="M10.5 34.5L24 12l13.5 22.5H10.5z"/>
+    <path fill="#F4B400" d="M24 12L35.5 23.5 24 34.5 12.5 23.5 24 12z" opacity="0.0"/>
+    <path fill="#4285F4" d="M24 12L10.5 34.5h8L24 22l5.5 12.5h8L24 12z"/>
+    <path fill="#F4B400" d="M24 12L35.5 34.5h-8L24 22l3.5 12.5h-7L24 12z" opacity="0.0"/>
+    <path fill="#FBBC05" d="M24 12l-4.5 9.5L24 31l4.5-9.5L24 12z" opacity="0.0"/>
+    <!-- A simplified triangular Drive-like mark using the three brand colors -->
+    <polygon points="24,6 6,34 18,34 24,22 30,34 42,34" fill="none"/>
+  </g>
+</svg>
